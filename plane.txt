@@ -1,0 +1,6 @@
+syntax => python
+default innitialization => constant, 'mut'able by choice
+constant => constant by value
+package => npm packages
+typing => python and rust
+errir => explicit similar rust

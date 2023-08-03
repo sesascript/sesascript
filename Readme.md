@@ -1,0 +1,7 @@
+# SeasaScript, A transpiled programming language
+
+This is a programming language made specifically for being transpiled to other language as desired. The first target is javascript, but latter c or even machine code maybe targated. If you like the concept consider joining me on youtube channel with the same name.
+
+It's goal is to be as type safe as posible and aims to be immutable first to allow for better understanding of mutations in the code and potential performance improvements. It also aims to be a simple language, compatible with javascript. It's syntax is taken inspiration from python, while typing system from rust. There however will be certain inconsistencies as it transpiles to javascript. It also aims to extensible through the use language level comp time macros and decorators. It also will have operator overloading for mathemathical data structures like vectors and complex numbers.
+
+It's still very early in development and is actively being developed by a college student(me). I hope this can be at the very list interesting for you as a developer, I mostly aim to learn about language design through this and add a new skill to my ersenal, and in the proccess if I'm able to make something usefull that'd be great. After the first transpilar is made this will be updated to have more extensive detailed description here. Until then I'm open for suggestions, and if this interests you join me on youtube when I stream me making this language. If you decide to join me hope you have fun.
